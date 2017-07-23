@@ -1,0 +1,2 @@
+# excursion
+Project with Git
